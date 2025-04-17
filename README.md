@@ -4,6 +4,14 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Powered by Zenity](https://img.shields.io/badge/UI-Zenity-orange?logo=gtk)
 
+<p align="center">
+  <img src="https://github.com/MaximilianCF/limpa_docker/raw/main/assets/logo.png" width="200" alt="Logo do projeto">
+</p>
+
+<h1 align="center">Docker Cleanup GUI</h1>
+<p align="center">Interface gráfica para manter seu Docker limpo, leve e organizado.</p>
+
+
 Uma ferramenta simples de limpeza de Docker com interface gráfica via **Zenity**, logs automáticos e agendamento via `cron`.
 
 ## 🚀 Funcionalidades
