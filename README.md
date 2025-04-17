@@ -53,3 +53,9 @@ Logs são gerados em `~/.docker_cleanup.log`.
 ```bash
 rm -rf docker-cleanup-gui
 ```
+
+## Captura de tela
+
+![Screenshot][1]
+
+[1]: <https://github.com/MaximilianCF/limpa_docker/raw/main/assets/Captura de tela de 2025-04-17 15-07-48.png> "Screenshot of the application"
